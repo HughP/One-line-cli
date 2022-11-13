@@ -1,6 +1,14 @@
 # One-line-cli
 Useful things that I forget....
 
+## Find things by file name when `locate` doesn't find them.
+
+
+`find <path> -name '*FileName*'`
+
+`find . -name '*alterations.md'`
+`
+
 ## Move files to a single parent directory
 Go to your A directory and run
 
